@@ -1,4 +1,4 @@
-#Simple Metric/Imperial Speedometer for WebScriptHook
+#Simple Metric/Imperial Speedometer
 by libertylocked
 
-A port as a WebScriptHook extension
+A port of [GTAV digital speedometer mod](https://github.com/LibertyLocked/GTAVMod_Speedometer) as a WebScriptHook extension
